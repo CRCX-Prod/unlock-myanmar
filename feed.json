@@ -10,21 +10,6 @@
     },
     "items": [
         {
-            "id": "https://crcx-prod.github.io/unlock-myanmar/inle.html",
-            "url": "https://crcx-prod.github.io/unlock-myanmar/inle.html",
-            "title": "Inle Lake",
-            "summary": "One of the main attractions in Myanmar, its natural beauty of this&hellip;",
-            "content_html": "<p>One of the main attractions in Myanmar, its natural beauty of this lake and the mountains around will just make you feel refresh and peaceful.</p>\n<p>As it is located in the biggest state in the country, you will see many different ethnic groups in the surrounding the lake area. Visiting to the villages near by the lake and explore how the ethnic people make their livings, it’s just unique of life here.</p>\n<p>Hiking up the beautiful green hills near by, tasting the wine on the mountain top, getting lost in the caves, getting fresh and clean air when you are having a ride on the boat and seeing the leg-rowing technique of the fishermen and the floating island and the houses on them are just worth visiting, what would you need more! Shan noodle of course you should never miss to try which is the most popular food in across Myanmar!</p>",
-            "image": "https://crcx-prod.github.io/unlock-myanmar/media/posts/5/DSCF5666ek.jpg",
-            "author": {
-                "name": "Unlock Myanmar"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-03-25T11:33:56+06:30",
-            "date_modified": "2019-03-25T11:42:08+06:30"
-        },
-        {
             "id": "https://crcx-prod.github.io/unlock-myanmar/inle-lake.html",
             "url": "https://crcx-prod.github.io/unlock-myanmar/inle-lake.html",
             "title": "Mandalay–Bagan-Inle Lake-Yangon",
@@ -36,32 +21,107 @@
             },
             "tags": [
             ],
-            "date_published": "2019-02-13T10:16:39+06:30",
-            "date_modified": "2019-03-25T11:30:18+06:30"
+            "date_published": "2020-02-13T10:16:00+06:30",
+            "date_modified": "2020-02-13T10:16:00+06:30"
+        },
+        {
+            "id": "https://crcx-prod.github.io/unlock-myanmar/kalaw.html",
+            "url": "https://crcx-prod.github.io/unlock-myanmar/kalaw.html",
+            "title": "Kalaw",
+            "summary": "One of the few great trek destinations in Myanmar, Kalaw is an&hellip;",
+            "content_html": "<p>One of the few great trek destinations in Myanmar, Kalaw is an easy place to get the trekking experience and kick back for a few days to relax. The weather is pleasant and cold and the town is also notable for its significant population of Nepali Gurkhas and Indians, whose ancestors came here to build the roads and railway during the colonial era. You can reach to Inle – Naung Shwe by train or car or trekking enjoying the scenery of Kalaw.</p>",
+            "author": {
+                "name": "Unlock Myanmar"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-25T13:46:00+06:30",
+            "date_modified": "2019-03-25T14:18:15+06:30"
+        },
+        {
+            "id": "https://crcx-prod.github.io/unlock-myanmar/kawthaung.html",
+            "url": "https://crcx-prod.github.io/unlock-myanmar/kawthaung.html",
+            "title": "Kawthaung",
+            "summary": "When you hear the name of this country, Myanmar, you might be&hellip;",
+            "content_html": "<p>When you hear the name of this country, Myanmar, you might be picturing temples and monasteries but, in fact, it’s much more than that. The country is rich with the gifts from the mother nature. Kawthaung, called Victoria point to the British, is southernmost part of the country and over 800 gorgeous islands are near there. The city is packed with attractions and adventure. Go there before a lot of people notice it. That is the place you should visit among the beautiful Myanmar destinations  if you love adventure, water activities like snorkeling, diving, and visiting to the local fishermen houses at remote islands. Well, if you are honeymooners, surely nowhere can make you feel special than this place.</p>",
+            "author": {
+                "name": "Unlock Myanmar"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-25T13:45:00+06:30",
+            "date_modified": "2019-03-25T14:19:20+06:30"
+        },
+        {
+            "id": "https://crcx-prod.github.io/unlock-myanmar/golden-rock.html",
+            "url": "https://crcx-prod.github.io/unlock-myanmar/golden-rock.html",
+            "title": "Golden Rock",
+            "summary": "Kyaikhtiyoe Pagoda, also known as Golden Rock, is one of the main&hellip;",
+            "content_html": "<p>Kyaikhtiyoe Pagoda, also known as Golden Rock, is one of the main pilgrimage sites for local people, you don’t want to miss that place as it is one of the top ten destinations in Myanmar. Only 4 hours drive from Yangon, the pagoda is situated on the mountain cliff, only 18 ft. height. It is strongly believed as a wishful stupa. If you love short trekking, do that from Kimpun Base Camp or you can now have the cable car ride from Yathae Taung to the top of the mountain, where the stupa is. You can do the day trip from Yangon but we totally recommend to stay overnight there for it’s breathtaking sunset and sunrise views. If you are here in March, that’s the perfect time for it’s Pagoda festival.</p>",
+            "author": {
+                "name": "Unlock Myanmar"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-25T13:43:56+06:30",
+            "date_modified": "2019-03-25T14:19:41+06:30"
+        },
+        {
+            "id": "https://crcx-prod.github.io/unlock-myanmar/chin-state.html",
+            "url": "https://crcx-prod.github.io/unlock-myanmar/chin-state.html",
+            "title": "Chin State",
+            "summary": "Located on the ridge of 4700ft high in the southern Chin State.",
+            "content_html": "<p>Located on the ridge of 4700ft high in the southern Chin State. The town is habited by five different of Chin tribes out of fifty and over. Although most of them believe in Christianity and Buddhism, Animism is also still being practiced, a lot of stone tombs and sacrificial poles can still be seen. The town is famous for its beautiful trekking trails to villages, greeny hill-side plantations and mithun farming. Visiting to face tattooed ladies houses and having the chat with them in person is the best part. Organic fruits are super delicious here. Traditional clothing and smoked mythan meat are the best presents to home from this beautiful city.</p>",
+            "author": {
+                "name": "Unlock Myanmar"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-25T13:40:46+06:30",
+            "date_modified": "2019-03-25T14:19:50+06:30"
+        },
+        {
+            "id": "https://crcx-prod.github.io/unlock-myanmar/putao.html",
+            "url": "https://crcx-prod.github.io/unlock-myanmar/putao.html",
+            "title": "Putao",
+            "summary": "Situated in Kachin State, far north of Myanmar. The town is surrounded&hellip;",
+            "content_html": "<p>Situated in Kachin State, far north of Myanmar. The town is surrounded by snow-capped mountains, beautiful and clean rivers and deep forests. If you are adventurous, no doubt, Putao is the right spot for you. The only place you can visit to the snow-capped mountains in the whole south-east Asia countries. You can do hiking through in Himalayan ridges, white water rafting, kayaking, bird watching and so much more. Getting round beautiful Putao, trekking along Mula Creek, and having the breathtaking views of snow-capped mountains  will definitely make your visit worth.</p>",
+            "author": {
+                "name": "Unlock Myanmar"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-25T13:40:25+06:30",
+            "date_modified": "2019-03-25T14:19:59+06:30"
         },
         {
             "id": "https://crcx-prod.github.io/unlock-myanmar/bagan.html",
             "url": "https://crcx-prod.github.io/unlock-myanmar/bagan.html",
             "title": "Bagan",
+            "summary": "Over 2230 temples and its empire ruins make Bagan magical. People often&hellip;",
+            "content_html": "<p>Over 2230 temples and its empire ruins make Bagan magical. People often say, “Pictures don’t do justice ”when they witness the view of this old capital in person.</p>\n<p>It was a powerful kingdom from the 11th  to 13th  century, Kings and their people built thousands and thousands of Buddhist monuments showing how the kingdom was powerful. This is the place where it all started; the culture, arts, religion of the people of Myanmar today.</p>\n<p>For so sure, it is the most popular tourist destination in the country. Some tourist noticed Bagan even before they hear the name of the country, Myanmar. Bagan has been hit by earthquakes over the centuries. The most recent, in August 2016, damaged 400 temples; work on repairing them is ongoing.</p>",
+            "image": "https://crcx-prod.github.io/unlock-myanmar/media/posts/3/DSCF2588ek.jpg",
             "author": {
                 "name": "Unlock Myanmar"
             },
             "tags": [
             ],
-            "date_published": "2019-02-13T10:16:24+06:30",
-            "date_modified": "2019-02-13T12:03:25+06:30"
+            "date_published": "2019-01-05T10:16:00+06:30",
+            "date_modified": "2019-03-25T14:20:19+06:30"
         },
         {
-            "id": "https://crcx-prod.github.io/unlock-myanmar/mandalay.html",
-            "url": "https://crcx-prod.github.io/unlock-myanmar/mandalay.html",
-            "title": "Mandalay",
+            "id": "https://crcx-prod.github.io/unlock-myanmar/hpa-an.html",
+            "url": "https://crcx-prod.github.io/unlock-myanmar/hpa-an.html",
+            "title": "Hpa An",
+            "summary": "Situated on the bank of Thanlwin River, important city of Kayin State,&hellip;",
+            "content_html": "<p>Situated on the bank of Thanlwin River, important city of Kayin State, Myanmar. Surrounded with mountain ranges with beautiful natural limestone caves. Popular destinations such as Kawgun Caves, Yathae Pyan Cave, Kawkathaung Cave, Saddan Cave and Kyaik Kalat Pagoda are worth to visit. Zwe Kabin Mountain is the landmark of Hpa An and you will see the most friendly Kayin ethnic people. There are many Buddha images in different size can be seen amazingly on the wall and ceiling of the caves. As Myanmar-Thailand border gate recently opened, lots of people make a stop here and feel this nature before the do the road trip to Thailand.</p>",
             "author": {
                 "name": "Unlock Myanmar"
             },
             "tags": [
             ],
-            "date_published": "2019-02-13T10:16:10+06:30",
-            "date_modified": "2019-02-13T10:20:32+06:30"
+            "date_published": "2019-01-04T13:44:00+06:30",
+            "date_modified": "2019-03-25T14:19:31+06:30"
         },
         {
             "id": "https://crcx-prod.github.io/unlock-myanmar/yangon.html",
@@ -72,8 +132,22 @@
             },
             "tags": [
             ],
-            "date_published": "2019-02-13T10:15:44+06:30",
-            "date_modified": "2019-02-13T10:20:26+06:30"
+            "date_published": "2019-01-03T10:15:00+06:30",
+            "date_modified": "2019-03-25T14:20:43+06:30"
+        },
+        {
+            "id": "https://crcx-prod.github.io/unlock-myanmar/mandalay.html",
+            "url": "https://crcx-prod.github.io/unlock-myanmar/mandalay.html",
+            "title": "Mandalay",
+            "summary": "The last king of Myanmar, who was exiled to India from this&hellip;",
+            "content_html": "<p>The last king of Myanmar, who was exiled to India from this very city, resided in this fallen kingdom, Mandalay. It is rich in history and famous for being the cultural and religious center. If you are curious about Buddhist culture of being a novice monk when the kids were young, make a visit to one monastery out of so many. </p>\n<p>Well preserved palace moat and its city wall, the artistic U Bein wooden bridge, 10 Burmese traditional arts, the ancient smaller kingdom ruins and the world’s biggest book(numerous stone inscriptions) are the main attractions.</p>",
+            "author": {
+                "name": "Unlock Myanmar"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-02T10:16:00+06:30",
+            "date_modified": "2019-03-25T14:20:31+06:30"
         }
     ]
 }
