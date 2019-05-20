@@ -26,20 +26,6 @@
             "date_modified": "2020-02-13T10:16:00+06:30"
         },
         {
-            "id": "https://crcx-prod.github.io/unlock-myanmar/mawlamyine.html",
-            "url": "https://crcx-prod.github.io/unlock-myanmar/mawlamyine.html",
-            "title": "Mawlamyine",
-            "summary": "It was the first capital of British Burma, the setting of George&hellip;",
-            "content_html": "It was the first capital of British Burma, the setting of George Orwell’s famous 1936 memoir <strong>Shooting an Elephant</strong>. Still today, it is the important seaport and trading center in the south-eastern part of Myanmar. The first Baptist church in Myanmar and other colonial buildings, Bilu Island, world biggest reclining Buddha on the Kyauktalon Mountain, Kawgoon and Payon Caves are the main attractions. For those who want to try a bit of meditation at a peaceful place, or experience what it is like to be a monk, visit  the famous Pa-Auk forest monastery. Learn how to meditate from a professional mentor and experience tranquility.",
-            "author": {
-                "name": "Unlock Myanmar"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-03-28T17:08:56+06:30",
-            "date_modified": "2019-03-28T17:08:56+06:30"
-        },
-        {
             "id": "https://crcx-prod.github.io/unlock-myanmar/ngapali-beach.html",
             "url": "https://crcx-prod.github.io/unlock-myanmar/ngapali-beach.html",
             "title": "Ngapali Beach",
@@ -54,6 +40,20 @@
             "date_modified": "2019-03-28T17:06:49+06:30"
         },
         {
+            "id": "https://crcx-prod.github.io/unlock-myanmar/mawlamyine.html",
+            "url": "https://crcx-prod.github.io/unlock-myanmar/mawlamyine.html",
+            "title": "Mawlamyine",
+            "summary": "It was the first capital of British Burma, the setting of George&hellip;",
+            "content_html": "It was the first capital of British Burma, the setting of George Orwell’s famous 1936 memoir <strong>Shooting an Elephant</strong>. Still today, it is the important seaport and trading center in the south-eastern part of Myanmar. The first Baptist church in Myanmar and other colonial buildings, Bilu Island, world biggest reclining Buddha on the Kyauktalon Mountain, Kawgoon and Payon Caves are the main attractions. For those who want to try a bit of meditation at a peaceful place, or experience what it is like to be a monk, visit  the famous Pa-Auk forest monastery. Learn how to meditate from a professional mentor and experience tranquility.",
+            "author": {
+                "name": "Unlock Myanmar"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-12T17:08:00+06:30",
+            "date_modified": "2019-04-09T11:24:47+06:30"
+        },
+        {
             "id": "https://crcx-prod.github.io/unlock-myanmar/hsipaw.html",
             "url": "https://crcx-prod.github.io/unlock-myanmar/hsipaw.html",
             "title": "Hsipaw",
@@ -64,8 +64,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-03-28T17:04:08+06:30",
-            "date_modified": "2019-03-28T17:04:08+06:30"
+            "date_published": "2019-01-11T17:04:00+06:30",
+            "date_modified": "2019-04-09T11:24:24+06:30"
         },
         {
             "id": "https://crcx-prod.github.io/unlock-myanmar/kalaw.html",
@@ -79,8 +79,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-03-25T13:46:00+06:30",
-            "date_modified": "2019-03-27T14:29:19+06:30"
+            "date_published": "2019-01-10T13:46:00+06:30",
+            "date_modified": "2019-04-09T11:24:03+06:30"
         },
         {
             "id": "https://crcx-prod.github.io/unlock-myanmar/kawthaung.html",
@@ -94,8 +94,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-03-25T13:45:00+06:30",
-            "date_modified": "2019-03-27T14:36:10+06:30"
+            "date_published": "2019-01-09T13:45:00+06:30",
+            "date_modified": "2019-04-09T11:23:47+06:30"
         },
         {
             "id": "https://crcx-prod.github.io/unlock-myanmar/golden-rock.html",
@@ -109,8 +109,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-03-25T13:43:56+06:30",
-            "date_modified": "2019-03-26T11:38:29+06:30"
+            "date_published": "2019-01-08T13:43:00+06:30",
+            "date_modified": "2019-04-09T11:23:28+06:30"
         },
         {
             "id": "https://crcx-prod.github.io/unlock-myanmar/chin-state.html",
@@ -124,8 +124,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-03-25T13:40:46+06:30",
-            "date_modified": "2019-03-27T14:35:32+06:30"
+            "date_published": "2019-01-07T13:40:00+06:30",
+            "date_modified": "2019-04-09T11:23:07+06:30"
         },
         {
             "id": "https://crcx-prod.github.io/unlock-myanmar/putao.html",
@@ -139,8 +139,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-03-25T13:40:25+06:30",
-            "date_modified": "2019-03-27T14:32:41+06:30"
+            "date_published": "2019-01-06T13:40:00+06:30",
+            "date_modified": "2019-04-09T11:22:48+06:30"
         },
         {
             "id": "https://crcx-prod.github.io/unlock-myanmar/bagan.html",
